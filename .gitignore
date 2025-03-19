@@ -1,2 +1,11 @@
-workspace/
+echo "workspace/
 AudioSet/
+__pycache__/
+*.log
+*.ckpt
+*.h5
+*.pth
+*.ipynb_checkpoints/
+.env
+.DS_Store
+" > .gitignore
