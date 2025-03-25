@@ -1,0 +1,7 @@
+filename,fold,target,category,esc10,src_file,take
+rivet1.wav,1,0,correct,False,rivet1,A
+rivet2.wav,2,0,correct,False,rivet2,A
+rivet3.wav,3,0,correct,False,rivet3,A
+rivet4.wav,4,0,correct,False,rivet1,B
+rivet5.wav,5,0,correct,False,rivet2,B
+rivet6.wav,1,0,correct,False,rivet3,B
